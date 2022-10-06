@@ -1,0 +1,5 @@
+Indicaciones de npm
+
+npm start = inicia el archivo index.js
+npm saludar = inicia el archivo hola_mundo.js
+npm test = echo \"Error: no test specified\" && exit 1
